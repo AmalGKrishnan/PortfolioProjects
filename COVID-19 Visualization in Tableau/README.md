@@ -4,4 +4,4 @@
 
 
 ### Screenshot :
-![alt text] (
+![alt text] (https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/COVID-19%20Visualization%20in%20Tableau/Dashboard_Tableau.png)
