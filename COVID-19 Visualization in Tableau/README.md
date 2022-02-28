@@ -6,4 +6,4 @@
 
 
 
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/COVID-19%20Visualization%20in%20Tableau/Dashboard_Tableau.png)
+![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/COVID-19%20Visualization%20in%20Tableau/images/Dashboard_Tableau.png)
