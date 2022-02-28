@@ -23,7 +23,7 @@ Major questions that we'll be answering here are:
     3.	Which are the countries/ continents with highest number of death due to Covid-19?
 
 
-    4.  What does the vaccination status look like per population? 
+    4.      What does the vaccination status look like per population? 
 ## Project Pipeline
 
     1.	Build a Database – Here we’ll be using Microsoft SQL Server Management Studio.
