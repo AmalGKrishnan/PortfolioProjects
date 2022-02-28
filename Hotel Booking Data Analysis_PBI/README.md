@@ -51,7 +51,7 @@ Ans. We can see that the 2020 data might possibly be incomplete (which we need t
 
 Ans. From the dashboard, we can see that there are no evidences suggesting for an increase in the parking lot size as it is mostly same for both the hotels throughout the years.
 
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/Dashboard.png)
+![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/images/Dashboard.png)
 
 
 **Q. What trends can we see in the data?**
@@ -60,9 +60,9 @@ Ans. The trends can be seen by sliding the Bar Slicer (to the desired dates wind
 
 
 ## Final Output
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/Dashboard_Final.PNG)
+![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/images/Dashboard_Final.PNG)
 
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/Dashboard_Final_Mobile_1.PNG)
+![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Hotel%20Booking%20Data%20Analysis_PBI/images/Dashboard_Final_Mobile_1.PNG)
 
 
 
