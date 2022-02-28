@@ -27,6 +27,7 @@ Major questions that we'll be answering here are:
 ## Project Pipeline
 
     1.	Build a Database – Here we’ll be using Microsoft SQL Server Management Studio.
+    
     2.	Develop the SQL Query for data exploration.
 
 ## Skills used 
