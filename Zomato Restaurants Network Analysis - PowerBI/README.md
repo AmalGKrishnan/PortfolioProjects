@@ -76,7 +76,7 @@ We shall directly import the ZomatoData table to PowerBI and create our dashboar
 
 
 
-![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/COVID-19%20Visualization%20in%20Tableau/images/Dashboard_Tableau.png)
+![alt text](https://github.com/AmalGKrishnan/PortfolioProjects/blob/master/Zomato%20Restaurants%20Network%20Analysis%20-%20PowerBI/images/Dashboard.PNG)
 
 
 ###Thank you!!
