@@ -30,7 +30,7 @@ Every Restaurant contains the following variables:
     
     • Cuisines: Cuisines offered by the restaurant
     
-    • Average Cost for two: Cost for two people in different currencies 👫
+    • Average Cost for two: Cost for two people in different currencies
    
     • Currency: Currency of the country
     
