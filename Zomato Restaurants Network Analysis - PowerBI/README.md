@@ -3,7 +3,7 @@
 
 Zomato is an Indian multinational restaurant aggregator and food delivery company founded by Deepinder Goyal, Pankaj Chaddah, and Gunjan Patidar in 2008. Zomato provides information, menus, and user reviews of restaurants as well as food delivery options from partner restaurants in select cities. As of 2019, the service is available in 24 countries and more than 10,000 cities.
 
-Zomato API Analysis is one of the most useful analysis for foodies who want to taste the best cuisines of every part of the world which lies in their budget. This analysis is also for those who want to find the value for money restaurants in various parts of the country for the cuisines. Additionally, this analysis caters the needs of people who are striving to get the best cuisine of the country and which locality of that country serves that cuisines with maximum number of restaurants.
+Zomato API Analysis is one of the most useful analysis for foodies who want to taste the best cuisines of every part of the world which lies in their budget. This dashboard can also be used by Zomato Business Development team in order to identify locations where they can potentially grow their network, thus the overall business.
 
 ### DATA
 Data collected can be seen as raw .json files as well as a consolidated .csv file [here](https://www.kaggle.com/shrutimehta/zomato-restaurants-data).
