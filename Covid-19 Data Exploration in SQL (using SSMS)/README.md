@@ -34,9 +34,9 @@ Major questions that we'll be answering here are:
     1. Downloaded the Covid-19 complete dataset .csv file from [here]('https://covid.ourworldindata.org/data/owid-covid-data.csv')
        which consists of 21 columns.
     
-    2. Rearranged the population column and then split the whole worksheet into two separate tables (covid_deaths and covid_vaccincation, 
-       with 'iso_code', 'continent', 'location' and 'date' columns remaining the same) and saved them as .xlsx files (could have 
-       downloaded the .xlsx format directly from the source).
+    2. Rearranged the population column and then split the whole worksheet into two separate tables (covid_deaths and 
+       covid_vaccincation, with 'iso_code', 'continent', 'location' and 'date' columns remaining the same) and saved 
+       them as .xlsx files (could have downloaded the .xlsx format directly from the source).
     
     3. Created a database in SSMS and imported the two tables into it and queried them for analysis purpose.
 
