@@ -1,7 +1,7 @@
 
 # COVID-19 Visualization in Tableau ( [View the Dashboard here](https://public.tableau.com/views/COVID-19_Data_Viz_2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link))
 
-This project is the continuation of "Covid-19 Data Exploration in SQL (using SSMS)" as we will be using the same dataset and some queries for Visualization in Tableau.
+This project is the continuation of "Covid-19 Data Exploration in SQL (using SSMS)" as we will be using the same dataset and some queries for Visualization in Tableau. This can be used by either the customer to find the best restaurant in a particular area or by Zomato management team in order to identify locations where they can grow their network, thus the overall business.
 
 ## DATA
 Here, we'll run the required queries in SSMS and then export the results to separate tables which can later use for viz. with Tableau.
