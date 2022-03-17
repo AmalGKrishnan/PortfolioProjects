@@ -24,16 +24,23 @@ Major questions that we'll be answering here are:
 
 
     4.      What does the vaccination status look like per population? 
-## Project Pipeline
+### Project Pipeline
 
     1.	Build a Database – Here we’ll be using Microsoft SQL Server Management Studio.
     
     2.	Develop the SQL Query for data exploration.
 
-## Skills used 
+### What we did
+    1. Downloaded the Covid-19 complete dataset .csv file from [here]('https://covid.ourworldindata.org/data/owid-covid-data.csv') which consists of 21 columns.
+    
+    2. Rearranged the population column and then split the whole worksheet into two separate tables (covid_deaths and covid_vaccincation, with 'iso_code', 'continent', 'location' and 'date' columns remaining the same) and saved them as .xlsx files (could have downloaded xlsx format directly from the source).
+    
+    3. Created a database in SSMS and imported the two tables into it and queried them for analysis purpose.
+
+### Skills used 
 **Joins, CTE, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types**
 
-## What do we know now / Lessons Learned
+### What do we know now / Lessons Learned
 
 * SSMS is easy and user-friendly. We can import tables directly from Excel files.
 * There are only 195 countries in the world. However, in this dataset, 225 locations are shown. Hmmm...
